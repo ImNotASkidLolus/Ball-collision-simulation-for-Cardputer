@@ -1,6 +1,4 @@
 # Simple collision simulation for M5Stack Cardputer and M5Stack Cardputer ADV
-<img src="images/collisions.jpg" alt="photo" width="70%"/>
-
 
 ## Controls
 
@@ -15,3 +13,5 @@
 `a` - make the balls smaller
 
 `d` - make the balls bigger
+
+<img src="images/collisions.jpg" alt="photo" width="70%"/>
